@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Dependencies: org.apache.httpcomponents, org.jboss.resteasy.resteasy-jaxrs, org.jboss.resteasy.resteasy-jaxb-provider, org.jboss.resteasy.resteasy-multipart-provider, org.jboss.resteasy.resteasy-jackson-provider, org.jboss.resteasy.resteasy-jackson2-provider, com.google.guava

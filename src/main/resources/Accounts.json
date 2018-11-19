@@ -1,0 +1,18 @@
+{
+	"accounts": [
+		{
+			"id": "ab25964b-63bd-487b-a624-aff3d1c4af4b",
+			"ownerId": "1c94195e-7ea0-4b89-84ed-889020105db4",
+			"pin": "1234",
+			"singleWithdrawLimit": 1000,
+			"balance": 2000.0
+		},
+		{
+			"id": "c8a61240-ac38-45cd-8c47-08e1ef4c4e94",
+			"ownerId": "2897bd65-13aa-430b-86fc-5499672c0f16",
+			"pin": "4567",
+			"singleWithdrawLimit": 150,
+			"balance": 500.0
+		}
+	]
+}
